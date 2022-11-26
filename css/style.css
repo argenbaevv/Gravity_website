@@ -441,6 +441,7 @@ body {
 }
 .our-works .works-right .works-list-item:hover {
   color: #4737FF;
+  cursor: pointer;
 }
 .our-works .works-slider {
   display: -ms-grid;
