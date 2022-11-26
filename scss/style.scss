@@ -110,9 +110,6 @@ body {
 }
 
 
-
-
-
 //What we do
 
 .wedo {
@@ -242,6 +239,7 @@ body {
   }
 }
 
+//Service Second Section
 .service-second {
   height: 550px;
   margin-right: 10%;
@@ -310,10 +308,7 @@ body {
   }
 }
 
-
-
-
-
+// Section Our Works
 .our-works {
   height: 1250px;
 
@@ -369,7 +364,6 @@ body {
   }
 
 
-
   .works-footer {
     margin-top: 40px;
     width: 100%;
@@ -394,7 +388,7 @@ body {
 }
 
 
-
+// Testimonials Section
 .testimonials {
   height: 625px;
   @include marginTopBottom();
@@ -502,8 +496,7 @@ body {
   background-image: url('../img/amd.svg');
 }
 
-
-
+// Footer Section
 
 .footer {
   height: 240px;
