@@ -1,0 +1,42 @@
+.hero-btn {
+    background-color: $btnColor;
+    padding: 15px 35px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 600;
+    border: none;
+  }
+.hero-btn:hover {
+    background-color: transparent;
+    color: $btnColor;
+    border: 2px solid $btnColor;
+}
+
+  .button-box {
+    margin-top: 50px;
+
+    .btn-slider {
+        width: 50px;
+        height: 50px;
+        border: none;
+        background-color: #C4C4C4;
+    }
+
+    .prev {
+        width: 12px;
+        height: 25px;
+        background-image: url('../img/prev.svg');
+        background-repeat: no-repeat;
+        background-size: contain;
+        margin: 12px;
+    }
+    .next {
+        width: 12px;
+        height: 25px;
+        background-image: url('../img/next.svg');
+        background-repeat: no-repeat;
+        background-size: contain;
+        margin: 12px;
+    }
+
+  }

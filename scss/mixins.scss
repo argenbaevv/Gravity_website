@@ -1,0 +1,15 @@
+@mixin marginTopBottom {
+    margin-top: 140px;
+    margin-bottom: 140px;
+  }
+  
+  @mixin paragraph {
+    font-weight: 400;
+    font-size: 0.9em;
+    color: $textColorSecond;
+  }
+  
+  @mixin textSecondary {
+    font-weight: 600;
+    font-size: 2em;
+  }
